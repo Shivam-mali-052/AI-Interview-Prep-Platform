@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Prep Platform",
+  "description": "An AI-powered technical interview preparation assistant to practice DSA, DBMS, OS, System Design, and OOPs in multiple languages with code evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
